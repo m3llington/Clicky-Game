@@ -1,6 +1,5 @@
 {
   "name": "clicky-game",
-  "homepage": "https://m3llington.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
